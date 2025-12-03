@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Love Triangle",
+  "base_artist": "DiverDiva",
+  "createdAt": "2025-12-03T11:02:49.945457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Triangle",
+      "artist": "RaeLynn",
+      "has_synced": true,
+      "path": "select/01_Love_Triangle_RaeLynn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_Bizarre_Love_Triangle_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/03_Bizarre_Love_Triangle_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Extended Dance Mix)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_Bizarre_Love_Triangle_(Extended_Dance_Mix)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Live)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/05_Bizarre_Love_Triangle_(Live)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (7\" Remix Edit)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/06_Bizarre_Love_Triangle_(7__Remix_Edit)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "Desire",
+      "has_synced": true,
+      "path": "select/07_Bizarre_Love_Triangle_Desire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Acapella)",
+      "artist": "Desire",
+      "has_synced": false,
+      "path": "select/08_Bizarre_Love_Triangle_(Acapella)_Desire.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Dirty Disco Edit)",
+      "artist": "Desire",
+      "has_synced": false,
+      "path": "select/09_Bizarre_Love_Triangle_(Dirty_Disco_Edit)_Desire.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sarah Marie Young",
+      "has_synced": true,
+      "path": "select/10_Bizarre_Love_Triangle_Scott_Bradlee's_Postmodern_Jukebox_feat._Sarah_Marie_Young.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/11_Bizarre_Love_Triangle_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle '94",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/12_Bizarre_Love_Triangle_'94_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle-94",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/13_Bizarre_Love_Triangle-94_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "Frente!",
+      "has_synced": true,
+      "path": "select/14_Bizarre_Love_Triangle_Frente!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Triangle",
+      "artist": "HTRK",
+      "has_synced": false,
+      "path": "select/15_Love_Triangle_HTRK.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "New Years Day",
+      "has_synced": false,
+      "path": "select/16_Bizarre_Love_Triangle_New_Years_Day.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": true,
+      "path": "select/17_Bizarre_Love_Triangle_Apoptygma_Berzerk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Triangle",
+      "artist": "DiverDiva",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Triangle_DiverDiva.txt"
+    }
+  ]
+}
